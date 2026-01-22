@@ -1,0 +1,16 @@
+project_id = "ytnrkpabzskqwpozqato"
+
+[functions.create-user]
+verify_jwt = false
+
+[functions.bootstrap-users]
+verify_jwt = false
+
+[functions.transcribe-audio]
+verify_jwt = false
+
+[functions.analyze-patterns]
+verify_jwt = false
+
+[functions.close-orphan-sessions]
+verify_jwt = false
